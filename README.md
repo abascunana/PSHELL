@@ -123,6 +123,7 @@ Notes:
 Get-Content -Path C:\\Sudoblark\\PowerShell\\Workshop1\\bclark\\Testfile.txt | Get-Member
 
 ![](images/image17.png)
+![](images/image18.png)
 
 Task 6
 
